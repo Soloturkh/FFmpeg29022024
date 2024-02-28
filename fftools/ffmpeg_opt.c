@@ -73,7 +73,6 @@ int do_pkt_dump       = 0;
 //defans
 int nofix_dts         = 0;
 int copy_ts           = 0;
-int copy_ts           = 0;
 int start_at_zero     = 0;
 int copy_tb           = -1;
 int debug_ts          = 0;
